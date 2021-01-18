@@ -1,0 +1,3 @@
+log.txt
+/dir2
+#if we add *.* it will ignore all the files . So we can improvise this command to ignore files on the basis of file names or extensions
